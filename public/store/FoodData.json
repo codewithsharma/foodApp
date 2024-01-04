@@ -1,0 +1,77 @@
+[
+    {
+        "categoryName":"Briyani/Rice",
+        "name":"Chicken Fried Rice",
+        "img":"https://unsplash.com/photos/a-white-bowl-filled-with-rice-and-meat-ysmeQt1dzcw",
+        "option":[
+            {
+                "half":"130",
+                "full":"220"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    },
+    {
+        "categoryName":"Briyani/Rice",
+        "name":"Chicken Fried Rice",
+        "img":"https://unsplash.com/photos/a-white-bowl-filled-with-rice-and-meat-ysmeQt1dzcw",
+        "option":[
+            {
+                "half":"130",
+                "full":"220"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    },
+    {
+        "categoryName":"Briyani/Rice",
+        "name":"Chicken Fried Rice",
+        "img":"https://unsplash.com/photos/a-white-bowl-filled-with-rice-and-meat-ysmeQt1dzcw",
+        "option":[
+            {
+                "half":"130",
+                "full":"220"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    }
+    , {
+        "categoryName":"Pizza",
+        "name":"Corn Pizza",
+        "img":"https://unsplash.com/photos/pizza-with-berries-MQUqbmszGGM",
+        "option":[
+            {
+                "regular":"130",
+                "medium":"220",
+                "large":"500"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    },
+    {
+        "categoryName":"Pizza",
+        "name":"Corn Pizza",
+        "img":"https://unsplash.com/photos/pizza-with-berries-MQUqbmszGGM",
+        "option":[
+            {
+                "regular":"130",
+                "medium":"220",
+                "large":"500"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    },
+    {
+        "categoryName":"Pizza",
+        "name":"Corn Pizza",
+        "img":"https://unsplash.com/photos/pizza-with-berries-MQUqbmszGGM",
+        "option":[
+            {
+                "regular":"130",
+                "medium":"220",
+                "large":"500"
+            }
+        ],
+        "description":" It is a mixed rice dish that was thought to have originated from Iran before settling in modern India."
+    }
+]

@@ -1,0 +1,10 @@
+*{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+#carousel{
+max-height: 450px;
+
+}
+.carousel-item img{
+  object-fit: contain;
+}
